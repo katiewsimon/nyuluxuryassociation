@@ -49,8 +49,12 @@ p {
 	font-family: 'News Cycle', sans-serif;
 }
 
-a:visited {
+.landing-page-link:visited {
 	color: FFFFFF;
+}
+
+a:visited {
+	color: 000000;
 }
 
 /* About Page: */
