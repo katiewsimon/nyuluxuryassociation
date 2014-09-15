@@ -49,25 +49,21 @@ p {
 	font-family: 'News Cycle', sans-serif;
 }
 
-
-.center {
-	position: relative;
-	text-align: center;
-    top: 50%;
-    left: 50%;
-    margin: 0 auto;
-    display: block;
-    text-transform: translateY(-50%);
+a:visited {
+	color: FFFFFF;
 }
 
 /* About Page: */
+
+.header-container {
+	margin-left: 10%;
+	margin-right: 10%;
+}
 
 .content-container {
 	margin-left: 10%;
 	margin-right: 10%;
 	margin-bottom: 10%;
 }
-
-
 
 
