@@ -76,8 +76,8 @@ a:visited {
 /* Content Pages: */
 
 .header-container {
-	margin-left: 10%;
-	margin-right: 10%;
+	margin-left: 100px;
+	margin-right: 100px;
 }
 
 .header-text {
@@ -85,9 +85,9 @@ a:visited {
 }
 
 .content-container {
-	margin-left: 10%;
-	margin-right: 10%;
-	margin-bottom: 10%;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-bottom: 100px;
 }
 
 iframe {
@@ -98,7 +98,8 @@ iframe {
 
 .nav-bar-container {
 	margin-top: 0px;
-	right: 25px;
+	right: 100px;
+	left: 100px;
 	display: block;
 	text-align: right;
 	font-size: 30px;
