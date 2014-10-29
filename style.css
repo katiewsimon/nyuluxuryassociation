@@ -84,6 +84,11 @@ a:visited {
 	margin-top: 15%;
 }
 
+.header-image {
+	background: url("about_page_header_image.jpg") no-repeat;
+	background-size: contain;
+}
+
 .content-container {
 	margin-left: 100px;
 	margin-right: 100px;
