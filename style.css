@@ -111,6 +111,12 @@ a:visited {
 	line-height: 25px;
 }
 
+.content-image {
+	margin-left: 25%;
+	margin-right: 25%;
+	max-height: 500px;
+}
+
 .footer-contact {
 	margin-bottom: 0px;
 	height: 45px;
