@@ -144,14 +144,16 @@ a:visited {
 .social-wrapper {
 	height: 60px;
 	display: block;
-	text-align: middle;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
 }
 
 .social-buttons {
 	height: 60px;
 	width: 180px;
-	display: inline;
-	margin: 0 auto;
+	display: inline-block;
+
 }
 
 
@@ -160,7 +162,7 @@ a:visited {
 	width: 40px;
 	float: left;
 	margin-right: 20px;
-	padding-top: 8px;
+	padding-top: 12px;
 }
 
 iframe {
